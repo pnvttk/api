@@ -1,4 +1,5 @@
-{
+[
+        {
         title: 'test1',
         imgUrl: '/assets/pv.png',
         stack: ['HTML', 'CSS', 'JavaScrip'],
@@ -16,3 +17,4 @@
         stack: ['HTML3', 'CSS3', 'JavaScrip3'],
         link: ''
     },
+]
